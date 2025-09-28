@@ -4,12 +4,12 @@
 #EXT-X-MEDIA-SEQUENCE:5149
 
 #EXTINF:10,
-0e3b91df986ab30d9220b38a0b8fb216/277424_5149.ts
+http://app.hughag.store/api/154d534216/playlist.m3u8
 #EXTINF:10,
-9d884b22c245c2126e263ade3f2b7e77/277424_5150.ts
+http://app.hughag.store/api/154d534216/playlist.m3u8
 #EXTINF:10,
-8ef14478c4ac13aa0599f15e8c98d905/277424_5151.ts
+http://app.hughag.store/api/154d534216/playlist.m3u8
 #EXTINF:10,
-6663957f156523332be3ad491631dfa7/277424_5152.ts
+http://app.hughag.store/api/154d534216/playlist.m3u8
 
 #EXT-X-ENDLIST
